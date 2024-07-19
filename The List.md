@@ -1,6 +1,8 @@
 
 
 #### Here is the list with no particular order:<br>
+___
+<br>
 
 **[Blank.page](https://blank.page)** is just that. A simple blank page. It has spellcheck, markdown preview, and dark mode. Everything you write is stored locally and save automatically. It even remembers what you had selected. You can add `/any_word_you_want` after the address to create a new page. I recommend having an index on one of them for all the other ones you create because there is no way of seeing which ones you created.<br>
 I'm actually writing this text on a blank.page right now.<br>
@@ -27,22 +29,22 @@ Please people. **I beg you**. Use version control. It's not that hard
 <br><br>
 
 
-I use **[Vivaldi](https://vivaldi.com)** as my browser. It's very private as they collect pretty much no data. (That's kind of why i switched away from OperaGX. That and how much ram gx uses. If i leave it on it will just keep using more and more ram, even if i'm just watching yt.) They don't have to do that because that's not how they make money. It's made by the original creator of Opera.<br>
-But the reason i actually like it is because of how goddamn customizable it is.
+I use **[Vivaldi](https://vivaldi.com)** as my browser. It's very private as they collect pretty much no data. They don't have to do that because that's not how they make money. (That's kind of why i switched away from OperaGX. That, and how much ram gx uses. If i leave it on it will just keep using more and more ram, even if i'm not doing anything.) It's actually made by the original creator of Opera.<br>
+That's why i switched, but the reason i actually like it is because of how goddamn customizable it is.
 
 #### Some features i use include:
 
-    - You can move/remove/add __every__ button on the browser (within reason lol).
-     This includes dropdown menus (when you right click on anything)
-     You can even add links to dropdown menus.
+	- You can move/remove/add __every__ button on the browser (within reason lol).
+	  This includes dropdown menus (when you right click on anything)
+	  You can even add links to dropdown menus.
 
-    - It has a few different ways of displaying the tabs like tab stacking. (I keep mine to the right)
+	- It has a few different ways of displaying the tabs like tab stacking. (I keep mine to the right)
 
-    - You can create a web panel (sidebar applet) from (i think) every website.
-      I'm using discord through a web panel right now.
+	- You can create a web panel (sidebar applet) from (i think) every website.
+	  I'm using discord through a web panel right now.
 
 	- Some built in applets like a reading list, a notepad (you can right click on text to copy/paste notes),
-      email, calendar, and even a translator.
+	  email, calendar, and even a translator.
 
 	- Tab tilling. Instead of having to open a different window and making both windows smaller,
 	  you can just have both tabs open on the same window.
@@ -53,7 +55,7 @@ But the reason i actually like it is because of how goddamn customizable it is.
 	  They are full 2d sidescrollers.
 
 I'll be honest, it isn't perfect.<br>
-There are one or two things that really bother me. For example: you can force a dark mode on every page (it's great. i can't live without it) but it breaks some things. some images don't look right. Which is normal, Gx has the same problem. Vivaldi's dark mode works way better. But in gx you can rightclick anywhere and you have an option to disable it. In Vivaldi you have to open the settings.
+There are one or two things that really bother me. For example: you can force a dark mode on every page (it's great. i can't live without it) but it breaks some things. Some images don't look right, sometimes text isn't legible, etc. But that's is normal, Gx has the same problem. Vivaldi's dark mode actually works way better. But in gx you can rightclick anywhere and you have an option to disable it. In Vivaldi you have to open the settings.
 
 Vivaldi isn't perfect, but it's my favorite.
 <br><br>
@@ -62,7 +64,6 @@ Vivaldi isn't perfect, but it's my favorite.
 #### This isn't an app or anything, but:<br>
 On almost any browser you can press **`Shift+ESC`** to open **your browser's task manager**. It let's you see what recourses each process is using. You can terminate the ones that you don't want anymore. The tab's will remain open, but you have to reload them for them to work (sometimes you have to restart the browser for some reason)
 <br><br><br>
-
 
 
 
@@ -116,5 +117,4 @@ You can use **[ToolsToday's text](https://toolsaday.com/text-tools/split-text)**
 
 
 **[Discord](https://youtu.be/xvFZjo5PgG0)**<!--Gottem.--> is an instant messaging and social platform... Lmao
-
 
