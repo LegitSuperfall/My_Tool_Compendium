@@ -5,6 +5,7 @@ I'm sorry if it's too big. I'm sure no one minds the size.
 ###### (That's what she said)
 
 ### In case you've never used GitHub, you just have to click where it says '[The List.md](https://github.com/LegitSuperfall/My_Tool_Compendium/blob/main/The%20List.md)'
+<br>
 
 This list... It got a bit out of hand. I just kept adding to it...
 I've been writing this for__**~~two hours~~ FIVE HOURS**__.
