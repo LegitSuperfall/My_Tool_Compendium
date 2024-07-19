@@ -45,7 +45,7 @@ Something that bother's me about it is that you can't grab the scrollbar. You ha
 
 
 **Milanote** is also sort of like a mood board like PureRef, but more fleshed out. You can draw, you can add text, lists, tables, columns, etc. You can organize with different boards, you can nest the boards, etc.
-You can use 100 'cards' (images, lists, etc) for free, but you have to get a subscription after that. Each person you invite adds 20 to your maximum (up to 100 extra). (please use mine lol: https://www.milanote.com/refer/rcEONdHa0eJ1JUwn8p)
+You can use 100 'cards' (images, lists, etc) for free, but you have to get a subscription after that. Each person you invite adds 20 to your maximum (up to 100 extra). ([please use mine](https://www.milanote.com/refer/rcEONdHa0eJ1JUwn8p) lol: https://www.milanote.com/refer/rcEONdHa0eJ1JUwn8p)
 
 
 **Figma** is a vector based design platform, mostly for UI. It's also free and online. You can prototype entire apps with it. There are exporters that translate it into code i believe. I use it for designing my UI and also for a quick scheduler i made. (I can't find a calendar i like... I'm very visual so i need to see the entire day, every hour, how long everything takes, etc)
