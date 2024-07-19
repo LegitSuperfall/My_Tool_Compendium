@@ -8,7 +8,7 @@ I'm sorry if it's too big. I'm sure no one minds the size.
 <br>
 
 This list... It got a bit out of hand. I just kept adding to it...
-I've been writing this for__**~~two hours~~ FIVE HOURS**__.
+I've been writing this for **~~two hours~~ FIVE HOURS**.
 It got so big I had to separate it into six parts just to post it on Discord. I really hope i didn't waste my time here
 
 I have even more things to add, but those will probably go on a seperate list, as i haven't really used them. I have them saved on discord in case i need them in the future. (there's also no way i'm doing that today lol)
