@@ -115,6 +115,9 @@ I used to really like ableton... Until i got tired of making new emails for the 
 You can use **[ToolsToday's text](https://toolsaday.com/text-tools/split-text)** to seperate your text into many parts. This is useful if you're writing something entirely too long for a discord message.
 <br><br>
 
+**[Markdown Viewer](https://markdownlivepreview.com)** let's you easily see what your markdown text will look like as you edit it in real time.
+<br><br>
+
 
 **[Discord](https://youtu.be/xvFZjo5PgG0)**<!--Gottem.--> is an instant messaging and social platform... Lmao
 
