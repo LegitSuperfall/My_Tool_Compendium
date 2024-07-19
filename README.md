@@ -4,11 +4,13 @@ I will keep adding to this list as i remember things or find new ones.
 I'm sorry if it's too big. I'm sure no one minds the size.
 ###### (That's what she said)
 
-### In case you've never used GitHub, you just have to click where it says 'The List.md'
+### In case you've never used GitHub, you just have to click where it says '[The List.md](https://github.com/LegitSuperfall/My_Tool_Compendium/blob/main/The%20List.md)'
 
 This list... It got a bit out of hand. I just kept adding to it...
 I've been writing this for__**~~two hours~~ FIVE HOURS**__.
 It got so big I had to separate it into six parts just to post it on Discord. I really hope i didn't waste my time here
+
+I have even more things to add, but those will probably go on a seperate list, as i haven't really used them. I have them saved on discord in case i need them in the future. (there's also no way i'm doing that today lol)
 
 I'm aware this list doesn't read well. It's really bland and it doesn't flow.
 However, i encourage you to at least skim through it. There is a lot of cool stuff in there.
