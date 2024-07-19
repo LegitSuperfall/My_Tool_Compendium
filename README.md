@@ -4,6 +4,8 @@ I will keep adding to this list as i remember things or find new ones.
 I'm sorry if it's too big. I'm sure no one minds the size.
 ###### (That's what she said)
 
+### In case you've never used GitHub, you just have to click where it says 'The List.md'
+
 This list... It got a bit out of hand. I just kept adding to it...
 I've been writing this for__**~~two hours~~ FIVE HOURS**__.
 It got so big I had to separate it into six parts just to post it on Discord. I really hope i didn't waste my time here
