@@ -101,9 +101,10 @@ You can use **[Ezgif](https://ezgif.com)** to edit... You guessed it, gifs. gif 
 
 **[MyNoise](https://mynoise.net/noiseMachines.php)** is a soundscape/white noise generator. Each noise machine has 10 different sliders, each with their own sound. You can set it to animate and it will slowly move the sliders, which gives you a lot of variety over time.
 I use it for background music when i'm working on my game. 
-I like to use two at the same time. I __recommend__ Endless Horizons  (lower the percs and taps to 0) with Quantum Polarity, or Polyrhythm Pattern Generator with Shroom with a View. Just set both to animate, lower the volume on both, and i'm set for the day.
+I like to use two at the same time. ***I recommend*** Quantum Polarity with Endless Horizons (lower the percs and taps to 0), or Polyrhythm Pattern Generator with Shroom with a View. Just set both to animate, lower the volume on both, and i'm set for the day.
 It has about a hundred free sounds, and around 150 more if you throw the guy some coins. It has a lot more perks if you do too.
-He also made **thewhitenoiseplaylist** which is just white noise.
+He also made **thewhitenoiseplaylist** which is just white noise.<br>
+I will say that it does use an unreasonable amount of ram. It sits between 700mb and even 1.2 gigs on occasion.
 <br><br>
 
 
