@@ -109,7 +109,7 @@ I will say that it does use an unreasonable amount of ram. It sits between 700mb
 
 
 **[LMMS](https://lmms.io)** is a digital audio workstation (DAW) application program. It allows music to be produced by arranging samples, synthesizing sounds, whatever, You get the idea. It's like flstudio or ableton. I've used all of those, but honestly LMMS is my favorite.<br>
-Oh and guess what. [FL Studio](https://www.image-line.com/fl-studio/compare-editions/) is 100 bucks. 230 if you want to *record audio*. 530 if you want all the instruments and effects. [Ableton](https://www.ableton.com/en/shop/live/) is only 80 bucks or 600 for the full suite. You wanna guess how much LMMS costs? It's completely free. It's open source. And it works with linux (that's what the L stands for)<br>
+Oh and guess what. [FL Studio](https://www.image-line.com/fl-studio/compare-editions/) is 100 bucks. 230 if you want to *record audio*. 530 if you want all the instruments and effects. [Ableton](https://www.ableton.com/en/shop/live/) is *only* 80 bucks or 600 for the full suite. You wanna guess how much LMMS costs? It's completely free. It's open source. And it works with linux (that's what the L stands for)<br>
 I used to really like ableton... Until i got tired of making new emails for the free trial. I tried Lmms. And it's actually so much better.
 <br><br>
 
