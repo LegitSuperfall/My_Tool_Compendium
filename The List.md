@@ -4,7 +4,7 @@
 ___
 <br>
 
-**[Blank.page](https://blank.page)** is just that. A simple blank page. It has spellcheck, markdown preview, and dark mode. Everything you write is stored locally and save automatically. It even remembers what you had selected. You can add `/any_word_you_want` after the address to create a new page. I recommend having an index on one of them for all the other ones you create because there is no way of seeing which ones you created.<br>
+**[Blank.page](https://blank.page)** is just that. A simple blank page. It has spellcheck, markdown preview, and dark mode. Everything you write is stored locally and saved automatically. It even remembers what you had selected. You can add `/any_word_you_want` after the address to create a new page. I recommend having an index on one of them for all the other ones you create because there is no way of seeing which ones you created.<br>
 I'm actually writing this text on a blank.page right now.<br>
 It works very well when you tile it with vivaldi.<br>
 Something that does bother me about it is that you can't grab the scrollbar. You have to use the mouse wheel. So **`Ctrl+Home`** and **`Ctrl+End`** are your friends here
