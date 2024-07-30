@@ -29,8 +29,9 @@ Please people. **I beg you**. Use version control. It's not that hard
 <br><br>
 
 
-I use **[Vivaldi](https://vivaldi.com)** as my browser. It's very private as they collect pretty much no data. They don't have to do that because that's not how they make money. (That's kind of why i switched away from OperaGX. That, and how much ram gx uses. If i leave it on it will just keep using more and more ram, even if i'm not doing anything.) It's actually made by the original creator of Opera.<br>
-That's why i switched, but the reason i actually like it is because of how goddamn customizable it is.
+I use **[Vivaldi](https://vivaldi.com)** as my browser. It's made by the original creator of Opera. It's very private because they collect pretty much no data. They don't have to do that since that's not how they make money.<br>
+But who cares about privacy, what i want is a browser that doesn't use 5gigs while idling. That's my story with OperaGX. If i leave it on it will just keep using more and more ram, even if i'm not doing anything.<br>
+Now, that's why i switched to Vivaldi, but the reason i actually like it is because of how goddamn customizable it is.
 
 #### Some features i use include:
 
@@ -96,6 +97,10 @@ Sadly they've been discontinued, so no more updates or support. That's why it's 
 
 
 You can use **[Ezgif](https://ezgif.com)** to edit... You guessed it, gifs. gif to video, gif resizer, optimizer, add effects and text, you can even create a gif from any set of images.
+<br><br>
+
+
+**[TinEye](https://tineye.com)** is an insanely fast reverse image search that helps you track down images for free. Think of googles image search, but much better. It has a few sorting options like best match, oldest, and most changed. It even finds the original version of edited images.
 <br><br>
 
 
